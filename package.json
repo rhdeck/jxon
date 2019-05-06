@@ -1,6 +1,6 @@
 {
   "name": "@raydeck/jxon",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "A complete, bidirectional, JXON library",
   "keywords": [
     "jxon",
@@ -40,7 +40,7 @@
     "type": "git",
     "url": "git://github.com/tyrasd/jxon.git"
   },
-  "license": "GPL v3",
+  "license": "GPLv3",
   "dependencies": {
     "xmldom": "^0.1.21"
   },
