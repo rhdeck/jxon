@@ -40,7 +40,7 @@
     "type": "git",
     "url": "git://github.com/tyrasd/jxon.git"
   },
-  "license": "GPLv3",
+  "license": "GPL3",
   "dependencies": {
     "xmldom": "^0.1.21"
   },
